@@ -24,3 +24,4 @@
 # print(mini)
 
 print(abs(-4) % 3)
+print(str(-3), len(str(-3)))
